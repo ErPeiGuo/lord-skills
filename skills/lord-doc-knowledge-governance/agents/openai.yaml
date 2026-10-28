@@ -1,0 +1,5 @@
+interface:
+  display_name: "lord-文档知识治理"
+  short_description: "面向 AI 的跨项目文档知识治理：渐进读取、决定落盘与跨会话恢复"
+policy:
+  allow_implicit_invocation: false

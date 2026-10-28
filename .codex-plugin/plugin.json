@@ -1,0 +1,9 @@
+{
+  "name": "lord-skills",
+  "version": "0.1.0",
+  "description": "Independent lord Agent Skills for AI-consumed project knowledge and future reusable capabilities.",
+  "author": { "name": "ErPeiGuo" },
+  "repository": "https://github.com/ErPeiGuo/lord-skills",
+  "license": "MIT",
+  "skills": "./skills/"
+}
